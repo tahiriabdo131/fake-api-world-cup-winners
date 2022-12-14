@@ -1,1 +1,28 @@
-
+{
+    "winners": [
+      {"id": 1, "year": 1930,"team": "uruguay"},
+      {"id": 2, "year": 1934,"team": "italy"},
+      {"id": 3, "year": 1938,"team": "italy"},
+      {"id": 4, "year": 1942,"team": "no-flag"},
+      {"id": 5, "year": 1946,"team": "no-flag"},
+      {"id": 6, "year": 1950,"team": "uruguay"},
+      {"id": 7, "year": 1954,"team": "germany"},
+      {"id": 8, "year": 1958,"team": "brazil"},
+      {"id": 9, "year": 1962,"team": "brazil"},
+      {"id": 10, "year": 1966,"team": "england"},
+      {"id": 11, "year": 1970,"team": "brazil"},
+      {"id": 12, "year": 1974,"team": "germany"},
+      {"id": 13, "year": 1978,"team": "argentina"},
+      {"id": 14, "year": 1982,"team": "italy"},
+      {"id": 15, "year": 1986,"team": "argentina"},
+      {"id": 16, "year": 1990,"team": "germany"},
+      {"id": 17, "year": 1994,"team": "brazil"},
+      {"id": 18, "year": 1998,"team": "france"},
+      {"id": 19, "year": 2002,"team": "brazil"},
+      {"id": 20, "year": 2006,"team": "italy"},
+      {"id": 21, "year": 2010,"team": "spain"},
+      {"id": 21, "year": 2014,"team": "germany"},
+      {"id": 23, "year": 2018,"team": "france"},
+      {"id": 24, "year": 2022,"team": "argentina"}
+    ]
+  }
